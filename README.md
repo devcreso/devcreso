@@ -10,7 +10,7 @@
 - ⚡ Fun fact: I love play soccer ⚽
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem-jd02vichh-devcreso.vercel.app/api/spotify-playing" alt="devCreso Spotify Playing" width="350" />](https://open.spotify.com/user/juninp_)
+[![Spotify](https://novatorem-jd02vichh-devcreso.vercel.app/api/spotify)](https://open.spotify.com/user/juninp_)
 
 ### Connect with me:
 
