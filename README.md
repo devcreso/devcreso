@@ -36,6 +36,10 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcreso&theme=dark&show_icons=true)
+
+---
+
 [twitter]: https://twitter.com/devcreso
 [instagram]: https://www.instagram.com/dev.cjunior/
 [linkedin]: https://www.linkedin.com/in/creso-pereirajr/
