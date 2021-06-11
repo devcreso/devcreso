@@ -36,7 +36,7 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcreso&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcreso&theme=merko&show_icons=true)
 
 ---
 
