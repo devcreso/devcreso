@@ -2,9 +2,9 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/devcreso?color=1DA1F2&logo=twitter&style=for-the-badge)
 
-## I'm a single, Developer, and student!!
+## I'm single, fullstack dev jr and student!!
 
-- 🤓 I'm looking for my first dev job! 💻🚀
+- 🤓 I'm seeking for my first dev job! 💻🚀
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Start work as a dev!
 - ⚡ Fun fact: I love play soccer ⚽
