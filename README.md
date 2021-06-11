@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="Creso's GitHub Stats" src="https://github-readme-stats.devcreso.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Creso's GitHub Stats" src="https://github-readme-stats.devcreso.vercel.app/api?username=devcreso&show_icons=true&hide_border=true" />
 
 </details>
 
