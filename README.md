@@ -9,9 +9,6 @@
 - 🥅 2021 Goals: Start work as a dev!
 - ⚡ Fun fact: I love play soccer ⚽
 
-### Spotify Playing 🎧
-[![Spotify](https://novatorem-jd02vichh-devcreso.vercel.app/api/spotify)](https://open.spotify.com/user/juninp_)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -34,11 +31,15 @@
 <br />
 <br />
 
----
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcreso&theme=merko&show_icons=true)
 
 ---
+
+<br />
+<br />
+
+### Spotify Playing 🎧
+[![Spotify](https://novatorem-jd02vichh-devcreso.vercel.app/api/spotify)](https://open.spotify.com/user/juninp_)
 
 [twitter]: https://twitter.com/devcreso
 [instagram]: https://www.instagram.com/dev.cjunior/
