@@ -34,7 +34,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devcreso&theme=merko&show_icons=true)
 
 ---
-<br />
 
 ### Spotify Playing 🎧
 [![Spotify](https://novatorem-jd02vichh-devcreso.vercel.app/api/spotify)](https://open.spotify.com/user/juninp_)
